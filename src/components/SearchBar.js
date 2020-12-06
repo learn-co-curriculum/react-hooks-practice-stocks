@@ -8,13 +8,20 @@ function SearchBar() {
         <input
           type="radio"
           value="Alphabetically"
+          name="sort"
           checked={null}
           onChange={null}
         />
         Alphabetically
       </label>
       <label>
-        <input type="radio" value="Price" checked={null} onChange={null} />
+        <input
+          type="radio"
+          value="Price"
+          name="sort"
+          checked={null}
+          onChange={null}
+        />
         Price
       </label>
       <br />
