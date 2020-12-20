@@ -1,4 +1,4 @@
-## Flatiron Stock Exchange
+## Practice Challenge: Flatiron Stock Exchange
 
 ![Clone Down Repo to See GIF](./stocks.gif)
 
