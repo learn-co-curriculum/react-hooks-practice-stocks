@@ -1,6 +1,6 @@
-## Practice Challenge: Flatiron Stock Exchange
+# Practice Challenge: Flatiron Stock Exchange
 
-![Clone Down Repo to See GIF](./stocks.gif)
+![demo](https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-practice-stocks/master/stocks.gif)
 
 Welcome to the Flatiron Stock Exchange!
 
