@@ -1,6 +1,6 @@
 # Practice Challenge: Flatiron Stock Exchange
 
-![demo](https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-practice-stocks/master/stocks.gif)
+![demo](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-practice-stocks/stocks.gif)
 
 Welcome to the Flatiron Stock Exchange!
 
